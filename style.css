@@ -456,6 +456,10 @@ section .title::after {
 	border-color: #fff;
 }
 
+.click{
+	color:  #ff004f;
+}
+
 /* contact section styling */
 .contact .title::after {
 	content: "Get in Touch";
